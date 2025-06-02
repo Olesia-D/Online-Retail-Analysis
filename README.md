@@ -382,7 +382,7 @@ One notable inconsistency in the data:
 Despite having both Online and In-store sales channels, cash payment methods are missing. If this were a real dataset, I would request inclusion of cash transactions for more accurate channel-specific analysis.
 
 ### Visualization
-I created an interactive dashboard in Tableau featuring the following metrics:
+I created visualizations of the following metrics: 
 
 Revenue over time
 
@@ -394,9 +394,9 @@ Sales by country
 
 Sales by product category
 
-Shipping cost
+Shipping cost, 
 
-Dynamic filters by:
+as well as an interactive dashboard with dynamic filters:
 
 Sales channel
 
